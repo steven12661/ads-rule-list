@@ -537,6 +537,7 @@ adblock.turtlecute.org##.textads
 ||logwebs.kugou.com^
 ||lookup.api.bsb.baidu.com^
 ||luckyorange.com^
+||upload.luckyorange.net^
 ||luimg.baidu.com^
 ||m-adnet.hiaiabc.com^
 ||m.ad.zhangyue.com^
