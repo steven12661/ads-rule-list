@@ -1,0 +1,53 @@
+[Adblock Plus 2.0]
+! Title: FZER0's Filter list
+
+! Cosmetic filters
+adblock.turtlecute.org##.adbox.banner_ads.adsbox
+adblock.turtlecute.org##.textads
+
+! URL filters
+/pagead.js$domain=adblock.turtlecute.org
+/widget/ads.
+
+! Advertising and analytics
+||stats.g.doubleclick.net^
+||static.doubleclick.net^
+||m.doubleclick.net^
+||mediavisor.doubleclick.net^
+||media.net^
+||analytics.google.com^
+||mouseflow.com^
+||luckyorange.com^
+||cs.luckyorange.net^
+||settings.luckyorange.net^
+||adm.hotjar.com^
+||identify.hotjar.com^
+||insights.hotjar.com^
+||script.hotjar.com^
+||surveys.hotjar.com^
+||careers.hotjar.com^
+||freshmarketer.com^
+||stats.wp.com^
+
+! Error reporting
+||notify.bugsnag.com^
+||sessions.bugsnag.com^
+||api.bugsnag.com^
+||app.bugsnag.com^
+||browser.sentry-cdn.com^
+||app.getsentry.com^
+
+! Social media tracking
+||pixel.facebook.com^
+||an.facebook.com^
+||analytics-sg.tiktok.com^
+||trk.pinterest.com^
+
+! Yahoo and Yandex
+||ads.yahoo.com^
+||analytics.yahoo.com^
+||partnerads.ysm.yahoo.com^
+||appmetrica.yandex.ru^
+||adfstat.yandex.ru^
+||adfox.yandex.ru^
+
